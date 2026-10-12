@@ -1,0 +1,39 @@
+{
+  "siteName": "FACE HOME",
+  "siteUrl": "https://murzzsite.github.io/face-home-design",
+  "lang": "ru",
+  "repo": "murzzsite/face-home-design",
+  "ref": "YBPC3X3QCY",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от FACE HOME",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Архитектурное бюро FACE HOME",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "6c0208527372257a2832bdd6265a1251",
+  "previewSecret": "39856cca40bec12a",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}

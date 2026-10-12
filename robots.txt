@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /face-home-design/blog/preview/
+
+Sitemap: https://murzzsite.github.io/face-home-design/sitemap.xml
